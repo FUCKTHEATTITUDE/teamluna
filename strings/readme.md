@@ -1,3 +1,7 @@
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/FUCKTHEATTITUDE/teamluna.git)
+
+
 # Yukki Multi-Language Support
 
 - These all are the languages currently available in Yukki Music Bot. You can edit or change all strings available.
@@ -15,5 +19,3 @@ You can edit [`en.yml`](https://github.com/NotReallyShikhar/public/blob/master/s
 
 - > Points to remember while editing : <br> - Make sure you dont change any `{0}` or `{1}` while editing your codes <br> - Don’t change "general_1" or any other such keys present.
 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/FUCKTHEATTITUDE/teamluna.git)
