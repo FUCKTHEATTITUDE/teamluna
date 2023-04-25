@@ -35,7 +35,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "mongodb+srv://doramusic624:dorama@cluster0.bjboyvi.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://Try:20092001@cluster0.486gohy.mongodb.net/?retryWrites=true&w=majority",
         "required": false
       },
       "MUSIC_BOT_NAME": {
