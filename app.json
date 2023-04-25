@@ -30,7 +30,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "5514322849:AAE-DBS6N2mEMT00FL6vbK58hD9QvOqmSN4",
+        "value": "6009420494:AAG3HCuIy4ZwJW5aWj448CkhoYu_04OMUf4",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -40,17 +40,17 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "dora",
+        "value": "luna",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5768000397",
+        "value": "1356469075",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "BQCgn4xe3Z1-GBDipbRVJx2bBgGJ2Q1e002KdfVZxVKRihTBYa9C9xWUb5LJoEw_ZXecat-iAK3oPAN0Mdrf8GWq1k1KdRAW7VpkO4XCli7KFQ-rw6nr6aL78mpMmLKRjbS7IOBkPGY9ktS5xH7b9IOUv26g32FaU66QQSocssUDMVLuV3kDvwenLjYsMfk7RTiq0QU_j4FHpGS2EnKUm0O8AD6nGGG1xPaeFiwkTmCxcm91FO0Mw24559xJUW-x-1I-LwDL-Nvx01sb4nEsP_N_huxgQxW-i4KDsS7i5AhSoLONMcYT7qiSbrZUq8HkviOdF5seTBSRHcFKOYDSWv9cAAAAAVfMs40A",
+        "value": "BQBE9VCV_OFtGTmhfuW-wgnGIgkwuI_SR6i3JC0cOWEOyOcwnlf3E3329JttEbfUj8NryA9cKuajoe2z2Z-6-lNmuteB7mmKlTRfvc6_fHxnfQcQVfo3MKmLT-sHS8C8OafDtg0G1TD2RdL8CKMzVIOo-Rt1GW0awT9tKrs0nSHhlJsItoJ18oX-x-grJN8L6q3QGxCDegArJKrgXqGmZHTP_kl8R83Ol59myJAor-Z5342MuiFezsjk2mt3D0MwXhqBJGkZXBIP7f9acejeyrjYL58KNFPczfRas_DkViL_7-qIGTGrs5RC4xCIiYWWhGvrG3X3OT_nSnCAOuvVxADxAAAAAWuxryoA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -60,12 +60,12 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
-        "value": "yumusicpraven",
+        "value": "lunamscic",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "-1001508304838",
+        "value": "-1001635517276",
         "required": true
       },
       "UPSTREAM_REPO": {
